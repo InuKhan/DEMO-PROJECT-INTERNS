@@ -1,0 +1,13 @@
+.Pic {
+    background-image: url(./images/nature2.jpg);
+  }
+
+  .background-image {
+    background-repeat: no-repeat;
+   
+    margin: auto;
+    height: 500px;
+    width: fit-content;
+    background-image: url(https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  }
+  
